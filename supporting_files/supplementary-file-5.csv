@@ -1,0 +1,48 @@
+ Panther Pathway enrichment result for top 500 genes with higher pageRank in old interstitial Macriphases in Kimmel et al. data-set,,
+Term,P-value,Genes
+JAK/STAT signaling pathway Homo sapiens P00038,0.0041555742,PTPRC;STAT1;JAK2;PIAS2
+Pentose phosphate pathway Homo sapiens P02762,0.005774732,RPIA;TALDO1;TKT
+Glycolysis Homo sapiens P00024,0.0087669014,PFKL;TPI1;PGK1;BPGM
+PDGF signaling pathway Homo sapiens P00047,0.0102022451,PDPK1;STAT1;SRF;STAT2;ARAF;PDGFB;JAK2;HRAS;GABPA;ARHGAP4;NCK1;VAV2
+T cell activation Homo sapiens P00053,0.0103520922,CDC42;PPP3CC;PTPRC;ARAF;LCP2;CD247;HRAS;NCK1;VAV2
+Apoptosis signaling pathway Homo sapiens P00006,0.0129672428,CASP7;TNFSF10;CYCS;ATF7;TRAF2;TMBIM6;ATF6;EIF2S1;MAP4K3;MCL1;TNFRSF1A
+Adenine and hypoxanthine salvage pathway Homo sapiens P02723,0.022575171,PNP;ADA
+Serine glycine biosynthesis Homo sapiens P02776,0.0327506935,PSAT1;SHMT2
+Toll receptor signaling pathway Homo sapiens P00054,0.0344692196,TRAF6;IL18;IRAK3;IRAK4;PTGS2;NFKBIE
+CCKR signaling map ST Homo sapiens P06959,0.0374179451,RYR1;PDPK1;SRC;SRF;ARAF;CREM;PTGS2;CLU;ARHGAP4;CDC42;TRAF6;AKT1S1;JAK2;MCL1
+De novo purine biosynthesis Homo sapiens P02738,0.0386352395,NME6;AK2;AK3;GART
+General transcription regulation Homo sapiens P00023,0.0489501377,BRF1;TAF8;TAF7;GTF2H4
+,,
+,,
+ Panther Pathway enrichment result for top 500 genes with higher pageRank in young interstitial Macriphases in Kimmel et al. data-set,,
+Term,P-value,Genes
+Parkinson disease Homo sapiens P00049,1.79E-004,YWHAE;YWHAZ;PSMA5;HCK;PSMA4;YWHAQ;PSMA1;PSMA2;PSMB3;MAPK1;STUB1;YWHAH;HSPA1A
+CCKR signaling map ST Homo sapiens P06959,6.08E-004,MEF2C;JUN;PRKCB;ARRB2;FOS;CXCL2;PTK2;ACAT1;MOB1A;RGS2;GNG2;CCND1;SP1;RPS6KA1;GNB1;MAPK1;TCF4;RAC1;IER3
+Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade Homo sapiens P00032,0.0027160397,RPS6KA4;RPS6KA1;RPS6KB2;MAPK1;FOS;IGF1
+EGF receptor signaling pathway Homo sapiens P00018,0.0030918694,STAT5A;YWHAE;PRKCB;GAB1;PPP2R5A;YWHAZ;YWHAQ;PRKD3;PPP2R5E;MAPK1;PIK3C3;RAC1;YWHAH
+Cortocotropin releasing factor receptor signaling pathway Homo sapiens P04380,0.0032536223,GNG2;GNB2;GNAQ;SNAP23;GNB1;STX3
+Huntington disease Homo sapiens P00029,0.0036321319,ACTR2;DYNC1I2;CREBBP;JUN;ARPC1B;ARPC5L;FOS;DYNLL1;ARL4C;CAPNS1;SP1;RAC1;ARF5;ARF6
+Cell cycle Homo sapiens P00013,0.00697616,PSMD12;CCND3;PSMD11;PSMD7
+Axon guidance mediated by semaphorins Homo sapiens P00007,0.0087669014,NRP1;FES;ARHGEF1;RAC1
+FGF signaling pathway Homo sapiens P00021,0.0104917564,YWHAE;YWHAQ;PRKCB;PPP2R5E;PPP2R5A;MAPK1;PIK3C3;PTPN6;RAC1;YWHAZ;FGFR1
+Opioid prodynorphin pathway Homo sapiens P05916,0.0108329938,SNAP23;STX3;ADCY7;GNAI2
+Opioid proenkephalin pathway Homo sapiens P05915,0.0108329938,SNAP23;STX3;ADCY7;GNAI2
+Opioid proopiomelanocortin pathway Homo sapiens P05917,0.0108329938,SNAP23;STX3;ADCY7;GNAI2
+Interferon-gamma signaling pathway Homo sapiens P00035,0.01164574,PIAS3;IFNGR1;MAPK1;PTPN6;JAK1
+Beta2 adrenergic receptor signaling pathway Homo sapiens P04378,0.01164574,SNAP23;CACNA1D;ADRB2;STX3;ADCY7
+Inflammation mediated by chemokine and cytokine signaling pathway Homo sapiens P00031,0.0134154827,CX3CR1;JUN;PRKCB;COL14A1;ARPC1B;C5AR1;ARPC5L;ARRB2;GNAI2;GNG2;GNAQ;ALOX5AP;MYH9;MAPK1;RAC1;PAK2;PF4
+Beta3 adrenergic receptor signaling pathway Homo sapiens P04379,0.0152043528,SNAP23;STX3;ADCY7
+PI3 kinase pathway Homo sapiens P00048,0.0173173863,CCND1;GNB2;GNAQ;GNB1;RPS6KB2;YWHAZ
+Transcription regulation by bZIP transcription factor Homo sapiens P00055,0.0173173863,GTF2A2;CREBBP;TAF12;TAF11;POLR2E;POLR2F
+VEGF signaling pathway Homo sapiens P00056,0.0174514621,PRKCB;PRKD3;MAPK1;PIK3C3;RAC1;PTK2;VEGFA
+Cytoskeletal regulation by Rho GTPase Homo sapiens P00016,0.0231427881,ROCK2;ARPC1B;CFL2;STMN1;MYH9;ARHGEF1;RAC1;PAK2
+PDGF signaling pathway Homo sapiens P00047,0.0244699264,RPS6KA4;STAT5A;JUN;MKNK1;RPS6KA1;RPS6KB2;MAPK1;PIK3C3;FOS;JAK1;RAB11B
+Integrin signalling pathway Homo sapiens P00034,0.0247515429,COL27A1;ITGAM;COL14A1;ARPC1B;ITGA1;ARPC5L;ILK;PTK2;COL4A2;COL4A1;ELMO1;PIK3C3;RAC1;ARF6
+Angiotensin II-stimulated signaling through G proteins and beta-arrestin Homo sapiens P05911,0.0257999374,GNB2;GNAQ;GNB1;MAPK1;ARRB2
+Angiogenesis Homo sapiens P00005,0.0258102848,JUN;PRKCB;FOS;RBPJ;PTK2;VEGFA;PTPRB;PRKD3;MAPK1;PIK3C3;PAK2;FGFR1;JAK1
+JAK/STAT signaling pathway Homo sapiens P00038,0.0300009827,STAT5A;PIAS3;JAK1
+TGF-beta signaling pathway Homo sapiens P00052,0.0316049412,SKI;JUN;CREBBP;BAMBI;MAPK1;ACVR1B;SKIL;TGFBR1;TGFBR2
+5HT4 type receptor mediated signaling pathway Homo sapiens P04376,0.0428701553,SNAP23;STX3;ADCY7
+Oxytocin receptor mediated signaling pathway Homo sapiens P04391,0.0435937507,PRKCB;GNAQ;SNAP23;CACNA1D;STX3
+Dopamine receptor mediated signaling pathway Homo sapiens P05912,0.0443141593,GNB2;SNAP23;GNB1;STX3;ADCY7;GNAI2
+Beta1 adrenergic receptor signaling pathway Homo sapiens P04377,0.0489501377,SNAP23;CACNA1D;STX3;ADCY7

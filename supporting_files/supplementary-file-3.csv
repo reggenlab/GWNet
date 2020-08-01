@@ -1,0 +1,47 @@
+"For Kimmel et al. data-set, Panther Pathway enrichment result for top 500 genes with higher pageRank in old AT2 cells ",,
+Term,P-value,Genes
+T cell activation Homo sapiens P00053,2.41E-07,CD86;CDC42;CD74;JUN;PTPRC;LCK;WAS;CD3G;CD247;CD3D;PIK3CG;VAV1
+Inflammation mediated by chemokine and cytokine signaling pathway Homo sapiens P00031,5.31E-06,CX3CR1;JUN;JUND;ITGAL;PIK3CG;VAV1;ACTG1;RGS4;CDC42;GNA15;ACTC1;CCL7;GNG8;PTK2B;MYH11;CCR2;PF4
+Integrin signalling pathway Homo sapiens P00034,0.005950115,CDC42;COL4A2;COL5A1;COL4A3;ITGAX;ITGA8;PTK2B;ITGAL;PIK3CG;ACTG1
+Cytoskeletal regulation by Rho GTPase Homo sapiens P00016,0.008055338,CDC42;ACTC1;STMN1;MYH11;TUBB4A;ACTG1
+Angiogenesis Homo sapiens P00005,0.009492918,JUN;ANGPT2;GRB14;ANGPT1;PDGFA;CTNNB1;FGF1;PIK3CG;VEGFA
+B cell activation Homo sapiens P00010,0.013793849,JUN;PTPRC;BLNK;PIK3CG;VAV1
+Cholesterol biosynthesis Homo sapiens P00014,0.02954668,FDPS;PMVK
+Huntington disease Homo sapiens P00029,0.036291006,JUN;HIP1;ACTC1;CAPNS1;TUBB4A;ARF5;ACTG1
+FGF signaling pathway Homo sapiens P00021,0.037901321,FGF7;YWHAQ;FGF1;FGFR2;PIK3CG;FGF10
+Axon guidance mediated by netrin Homo sapiens P00009,0.038268756,CDC42;UNC5C;PIK3CG
+Endothelin signaling pathway Homo sapiens P00019,0.039651173,EDNRA;GNAS;PRKG2;PIK3CG;PRKG1
+JAK/STAT signaling pathway Homo sapiens P00038,0.046541402,PTPRC;STAT4
+Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway Homo sapiens P00027,0.05004094,RGS4;GNA15;GNB4;CLTA;GNG8;RASGRP3
+,,
+,,
+"For Kimmel et al. data-set, Panther Pathway enrichment result for top 1000 genes with higher pageRank in old AT2 cells ",,
+Term,P-value,Genes
+T cell activation Homo sapiens P00053,1.30E-05,CD86;CD74;JUN;WAS;CD3G;CD3D;PIK3CG;VAV1;CDC42;PTPRC;LCK;NCK2;CD28;CD247
+Inflammation mediated by chemokine and cytokine signaling pathway Homo sapiens P00031,6.80E-05,CX3CR1;JUN;JUND;ARPC1B;CXCR5;PLA2G4A;ITGAL;PTGS2;PIK3CG;VAV1;ACTG1;RGS4;CDC42;PREX1;GNA15;ACTC1;CCL7;COL6A3;GNG8;PTK2B;MYH11;CCR2;PF4
+Integrin signalling pathway Homo sapiens P00034,1.04E-04,ITGB4;ARPC1B;FN1;LAMC1;ITGAL;PIK3CG;ACTG1;PIK3C2B;RHOB;CDC42;COL3A1;COL4A2;COL5A1;COL4A1;COL4A3;COL5A2;ITGAX;ITGA8;COL6A3;PTK2B
+Angiogenesis Homo sapiens P00005,0.001992646,JUN;ANGPT2;FZD5;ANGPT1;STAT1;PDGFA;PLA2G4A;FGF1;PIK3CG;PIK3C2B;RHOB;VEGFA;GRB14;MAPKAPK2;NCK2;CTNNB1
+Ras Pathway Homo sapiens P04393,0.002169259,CDC42;TIAM1;MAPK11;JUN;RALB;STAT1;MAPKAPK2;RGL1;PIK3CG;RHOB
+Oxidative stress response Homo sapiens P00046,0.005938776,MAPK11;JUN;STAT1;BCL2;PLA2G4A
+Cholesterol biosynthesis Homo sapiens P00014,0.015204353,FDPS;HMGCS1;PMVK
+JAK/STAT signaling pathway Homo sapiens P00038,0.030000983,PTPRC;STAT1;STAT4
+Endothelin signaling pathway Homo sapiens P00019,0.033347671,EDNRA;GNAS;PRKG2;PLA2G4A;PTGS2;PIK3CG;PRKG1;PIK3C2B
+CCKR signaling map ST Homo sapiens P06959,0.037417945,JUN;MMP3;PLA2G4A;PTGS2;ELK4;CDC42;RGS2;CREB1;RHEB;BCL2;PTK2B;CTNNB1;CALM1;PRKG1
+PDGF signaling pathway Homo sapiens P00047,0.053843089,ELK4;ARHGAP42;JUN;STAT1;MAPKAPK2;NCK2;STAT4;PDGFA;PIK3CG;VAV1
+,,
+,,
+"For angelids et al. data-set,  Panther Pathway enrichment result for top 1000 genes with higher pageRank in old AT2 cells ",,
+Cholesterol biosynthesis Homo sapiens P00014,1.12E-04,HMGCS1;MVD;HMGCR;FDFT1
+T cell activation Homo sapiens P00053,4.73E-04,CDC42;NFKBIA;PPP3CA;NRAS;MAP3K1;NFATC3;HRAS;NFKB1
+FGF signaling pathway Homo sapiens P00021,0.003427651,PPP2CB;NRAS;PRKCA;SPRY1;PPP2R5C;FGF1;HRAS;FGFR2
+EGF receptor signaling pathway Homo sapiens P00018,0.006132435,PPP2CB;NRAS;STAT2;PRKCA;SPRY1;PPP2R5C;HRAS;YWHAH
+Angiogenesis Homo sapiens P00005,0.009609692,NRAS;JAG1;MAP3K1;PRKCA;FGF1;HRAS;RHOA;JAK1;VEGFA
+B cell activation Homo sapiens P00010,0.013903144,NFKBIA;PPP3CA;NRAS;NFATC3;HRAS
+Histamine H2 receptor mediated signaling pathway Homo sapiens P04386,0.020062909,PRKAR2A;ADCY7
+Ras Pathway Homo sapiens P04393,0.029315751,CDC42;NRAS;MAP3K1;HRAS;RHOA
+Beta3 adrenergic receptor signaling pathway Homo sapiens P04379,0.02965621,SNAP29;ADCY7
+Cytoskeletal regulation by Rho GTPase Homo sapiens P00016,0.030945358,CDC42;ROCK1;ROCK2;TUBB4B;MYLK
+Beta2 adrenergic receptor signaling pathway Homo sapiens P04378,0.032186061,PRKAR2A;ADCY7;SNAP29
+Beta1 adrenergic receptor signaling pathway Homo sapiens P04377,0.032186061,PRKAR2A;ADCY7;SNAP29
+5HT1 type receptor mediated signaling pathway Homo sapiens P04373,0.035251041,PRKAR2A;ADCY7;SNAP29
+Apoptosis signaling pathway Homo sapiens P00006,0.043192321,NFKBIA;MAP3K1;PRKCA;EIF2S1;NFKB1;ATF4
